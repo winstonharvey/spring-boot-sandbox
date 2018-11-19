@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "springbootsandbox",
+    "packageName": "com.sbsandbox",
+    "packageFolder": "com/sbsandbox",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "session",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "rememberMeKey": "f837736d6c735029796b768c6c9b1d243ff6972e91fa8f87a09abc73af98a12d7452c58c62c3fc8ae7a1ecaa1fcd89d265e8",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "winstonharvey",
+  "repository-name": "spring-boot-sandbox"
+}
